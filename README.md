@@ -2,6 +2,7 @@
 * Project Name: dynamic-website
 * Framework : Next.js (React)
 * Styling : TailwindCss 
+* Language : TypeScript
 * Deplyment: Netlify
 
 
